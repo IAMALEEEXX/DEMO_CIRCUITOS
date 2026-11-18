@@ -1,0 +1,8 @@
+# Circuito CR-02: dos fuentes, V2 flotante
+V V1 1 0 12
+V V2 2 3 5
+R R1 1 2 100
+R R2 2 0 200
+R R3 3 0 300
+R R4 3 4 150
+R R5 4 0 100

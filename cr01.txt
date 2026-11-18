@@ -1,0 +1,6 @@
+# Circuito CR-01: una fuente, cuatro resistencias
+V V1 1 0 10
+R R1 1 2 100
+R R2 2 0 200
+R R3 2 3 150
+R R4 3 0 300

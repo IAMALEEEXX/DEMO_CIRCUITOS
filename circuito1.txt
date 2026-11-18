@@ -1,0 +1,7 @@
+# Circuito de demostracion (Imagen 1)
+# Nodos: 0 = Tierra, 1 = Izquierdo (+5V), 2 = Central (Va), 3 = Derecho (-3V)
+V V1 1 0 5
+V V2 0 3 3
+R R1 1 2 2
+R R2 2 3 4
+R R3 2 0 8
